@@ -28,6 +28,7 @@ python Delete.py
 ### 3. GitHub Desktop과 함께 사용 (선택)
 
 `CustomGitOpen.bat`을 실행하면 `desktop.ini` 정리 후 자동으로 GitHub Desktop이 열립니다.
+.bat 내에 start부분의 경로를 수정을 반드시 해주셔야 합니다. 
 
 ## PyInstaller로 exe 빌드
 
