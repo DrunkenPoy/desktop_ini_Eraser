@@ -1,0 +1,6 @@
+@echo off
+echo Running desktop.ini cleanup script...
+python Delete.py
+echo Cleanup complete. Starting GitHub Desktop...
+start "" "C:\Users\shani\AppData\Local\GitHubDesktop\GitHubDesktop.exe"
+exit
